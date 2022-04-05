@@ -69,6 +69,7 @@ Deploy your own bot on `heroku`
 `Fork and Click on Deploy in your fork`
 <p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="250""/></a></p>
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FFarruxBotirov%2FVIDEOconvertorp&amp;template=https%3A%2F%2Fgithub.com%2FFarruxBotirov%2FVIDEOconvertor)
 `Alternate way:`
 
 If you are facing any problem while deploying through heroku button, just fork and deploy manually by creating a new app in heroku.
